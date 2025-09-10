@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.linharosa{
+    background-color: #FFC5D3;
+    width: 100vw;
+    height: 200px;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    padding-left: 50vh;
+
+
+}
+
+.linharosa div{
+    background-color: rgb(210, 50, 77);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0px 0px 0px 5px;
+}
