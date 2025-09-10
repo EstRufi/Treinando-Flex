@@ -57,3 +57,10 @@
     border-radius: 50%;
     margin: 0px 0px 0px 5px;
 }
+
+.linhaciano{
+    width: 100vw;
+    height: 200px;
+    background-color: #e0ffff ;
+    display: flex;
+}
