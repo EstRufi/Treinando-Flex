@@ -63,4 +63,15 @@
     height: 200px;
     background-color: #e0ffff ;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.linhaciano div{
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+    border-radius: 50%;
+    margin: 0px 0px 0px 5px;
 }
