@@ -11,7 +11,7 @@ body{
 .linharosa{
     background-color: #FFC5D3;
     width: 100vw;
-    height: 200px;
+    height: 20%;
     display: flex;
     justify-content: right;
     align-items: flex-end;
@@ -30,7 +30,7 @@ body{
 
 .linhamarrom{
     width: 100vw;
-    height: 200px;
+    height: 20%;
     background-color: #D2B48C;
     display: flex;
     justify-content: right;
@@ -47,7 +47,7 @@ body{
 
 .linhaverde{
     width: 100vw;
-    height: 200px;
+    height: 20%;
     background-color: lightgreen;
     display: flex;
     justify-content: center;
@@ -64,7 +64,7 @@ body{
 
 .linhaciano{
     width: 100vw;
-    height: 200px;
+    height: 20%;
     background-color: #e0ffff ;
     display: flex;
     align-items: center;
@@ -82,7 +82,7 @@ body{
 
 .linhacinza{
     width: 100vw;
-    height: 200px;
+    height: 20%;
     background-color: gray ;
     display: flex;
     align-items: center;
